@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "fnValidaBoleto": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7169 --cors \"*\""
+    }
+  }
+}
